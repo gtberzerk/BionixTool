@@ -15,6 +15,7 @@ namespace BionixTool
         public static void Main(string[] args)
         {
             CreateWebHostBuilder(args).Build().Run();
+            //Added a new line in VS
         }
 
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
