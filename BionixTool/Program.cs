@@ -16,6 +16,7 @@ namespace BionixTool
         {
             CreateWebHostBuilder(args).Build().Run();
             //New edit
+            //Edit by gtberzerk
         }
 
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
